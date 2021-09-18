@@ -2,7 +2,7 @@
 A simple TM1637 of a 12/24 hour clock with seconds display.
 
 It uses a simple delay() to keep time, so it's not all that accurate - but shows a few tricks with the TM1637 clock display, like creating a few new characters to display, and clearing only portions of the display.
-Interestingly the flashing : symbol is the same as the "decimal point" of other displays - in that it's lumped in with the digit directly to its left. In this case the flag is bit bit 7 on the second character along.
+Interestingly the flashing : symbol is the same as the "decimal point" of other displays - in that it's lumped in with the digit directly to its left. In this case the flag is bit 7 on the second character along.
 
 It can be run on pritty much any M5Stack device, just by changing the include at the top.
 
