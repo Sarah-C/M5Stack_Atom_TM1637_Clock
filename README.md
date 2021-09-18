@@ -6,5 +6,7 @@ Interestingly the flashing : symbol is the same as the "decimal point" of other 
 
 It can be run on pritty much any M5Stack device, just by changing the include at the top.
 
+The version of the display I have coincidentally plugged straight into the 4 pins of my Atom without needing wiring. GND, VCC, DIO, CLK.
+
 <img src="https://user-images.githubusercontent.com/1586332/133896248-3e98f505-e8f6-4274-b8ff-e36834d17275.png" width="600">
 
